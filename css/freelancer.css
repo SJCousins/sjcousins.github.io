@@ -1106,7 +1106,7 @@ pre code {
     max-width: 25%;
   }
   .col-lg-4 {
-    flex: 1 0 40%;
+    flex: 1 0 33%;
     max-width: 40%;
   }
   .col-lg-5 {
